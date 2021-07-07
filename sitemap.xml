@@ -214,21 +214,7 @@
   </url>
   
   <url>
-    <loc>https://49.232.101.82/tags/html-css/</loc>
-    <lastmod>2021-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://49.232.101.82/tags/css/</loc>
-    <lastmod>2021-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://49.232.101.82/tags/Js/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -242,7 +228,14 @@
   </url>
   
   <url>
-    <loc>https://49.232.101.82/tags/react/</loc>
+    <loc>https://49.232.101.82/tags/html-css/</loc>
+    <lastmod>2021-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://49.232.101.82/tags/Js/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -250,6 +243,13 @@
   
   <url>
     <loc>https://49.232.101.82/tags/vue/</loc>
+    <lastmod>2021-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://49.232.101.82/tags/react/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -277,14 +277,14 @@
   </url>
   
   <url>
-    <loc>https://49.232.101.82/tags/%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://49.232.101.82/tags/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://49.232.101.82/tags/%E5%90%8E%E7%AB%AF/</loc>
+    <loc>https://49.232.101.82/tags/%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -321,21 +321,7 @@
   </url>
   
   <url>
-    <loc>https://49.232.101.82/categories/Html-Css/</loc>
-    <lastmod>2021-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://49.232.101.82/categories/CSS/</loc>
-    <lastmod>2021-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://49.232.101.82/categories/Js/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -349,7 +335,14 @@
   </url>
   
   <url>
-    <loc>https://49.232.101.82/categories/React/</loc>
+    <loc>https://49.232.101.82/categories/Html-Css/</loc>
+    <lastmod>2021-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://49.232.101.82/categories/Js/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -357,6 +350,13 @@
   
   <url>
     <loc>https://49.232.101.82/categories/Vue/</loc>
+    <lastmod>2021-07-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://49.232.101.82/categories/React/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -391,14 +391,14 @@
   </url>
   
   <url>
-    <loc>https://49.232.101.82/categories/%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://49.232.101.82/categories/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://49.232.101.82/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <loc>https://49.232.101.82/categories/%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
