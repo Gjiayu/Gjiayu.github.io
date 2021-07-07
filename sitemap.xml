@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://49.232.101.82/2021/07/06/%E8%AE%A1%E5%88%92/</loc>
-    
-    <lastmod>2021-07-06</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://49.232.101.82/charts/index.html</loc>
     
     <lastmod>2021-07-05</lastmod>
@@ -235,14 +228,14 @@
   </url>
   
   <url>
-    <loc>https://49.232.101.82/tags/Js/</loc>
+    <loc>https://49.232.101.82/tags/react/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://49.232.101.82/tags/react/</loc>
+    <loc>https://49.232.101.82/tags/Js/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -342,14 +335,14 @@
   </url>
   
   <url>
-    <loc>https://49.232.101.82/categories/Js/</loc>
+    <loc>https://49.232.101.82/categories/React/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://49.232.101.82/categories/React/</loc>
+    <loc>https://49.232.101.82/categories/Js/</loc>
     <lastmod>2021-07-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
