@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>面试题-Vue系列</title>
+      <link href="/2021/07/08/Vue%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+      <url>/2021/07/08/Vue%E9%9D%A2%E8%AF%95%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Vue优点"><a href="#Vue优点" class="headerlink" title="Vue优点"></a>Vue优点</h2><pre><code>1. 轻量级框架2. 简单易学3. 双向数据绑定4. 视图、数据、解构分离5. 虚拟Dom6. 运行速度更快</code></pre><h2 id="Vue父组件向子组件传递数据"><a href="#Vue父组件向子组件传递数据" class="headerlink" title="Vue父组件向子组件传递数据"></a>Vue父组件向子组件传递数据</h2><pre><code>通过props</code></pre><h2 id="Vue子组件向父组件传递事件"><a href="#Vue子组件向父组件传递事件" class="headerlink" title="Vue子组件向父组件传递事件"></a>Vue子组件向父组件传递事件</h2><pre><code>$emit方法</code></pre><h2 id="如何获取dom"><a href="#如何获取dom" class="headerlink" title="如何获取dom"></a>如何获取dom</h2><pre><code>ref=&quot;domName&quot;   用法：this.$refs.domName</code></pre><h2 id="Vue-loader是什么-使用它的用途有哪些？"><a href="#Vue-loader是什么-使用它的用途有哪些？" class="headerlink" title="Vue-loader是什么?使用它的用途有哪些？"></a>Vue-loader是什么?使用它的用途有哪些？</h2><pre><code>Vue文件的一个加速器，将template/Js/style转换为js模块。用法：js可以写es6、style样式可以scss或less、template可以加jade等</code></pre><h2 id="为什么使用key？"><a href="#为什么使用key？" class="headerlink" title="为什么使用key？"></a>为什么使用key？</h2><pre><code>需要使用key来给每个节点做一个唯一标识、Diff算法可以正确识别此节点作用主要是为了搞高效的更新虚拟Dom</code></pre><h2 id="axios及安装"><a href="#axios及安装" class="headerlink" title="axios及安装"></a>axios及安装</h2><pre><code>请求后台资源模块。npm install axios --savejs中使用import进来，然后get或post。返回在.then函数中如果成功，失败则在.catch函数中</code></pre><h2 id="请说出Vue-cil项目中src目录每个文件夹和文件的用法"><a href="#请说出Vue-cil项目中src目录每个文件夹和文件的用法" class="headerlink" title="请说出Vue.cil项目中src目录每个文件夹和文件的用法"></a>请说出Vue.cil项目中src目录每个文件夹和文件的用法</h2><pre><code>assets文件夹是放静态文件的components是放组件router是定义路由相关配置app.vue是一个应用主组件main.js是入口组件</code></pre><h2 id="v-on可以监听多个方法吗"><a href="#v-on可以监听多个方法吗" class="headerlink" title="v-on可以监听多个方法吗"></a>v-on可以监听多个方法吗</h2><pre><code>可以例子：&lt;input type=&quot;text&quot; v-on=&quot;&#123; input:onInput,focus:onFocus,blur:onBlur, &#125;&quot;&gt;。</code></pre><h2 id="nextTick的使用"><a href="#nextTick的使用" class="headerlink" title="$nextTick的使用"></a>$nextTick的使用</h2><pre><code>当你修改了data的值然后马上获取这个dom元素的值，是不能获取到更新后的值，你需要使用$nextTick这个回调，让修改后的data值渲染更新到dom元素之后在获取，才能成功</code></pre><h2 id="渐进式框架的理解"><a href="#渐进式框架的理解" class="headerlink" title="渐进式框架的理解"></a>渐进式框架的理解</h2><pre><code>主张最少；可以根据不同需求选择不同层级；</code></pre><h2 id="vue组件中data为什么必须是一个函数？"><a href="#vue组件中data为什么必须是一个函数？" class="headerlink" title="vue组件中data为什么必须是一个函数？"></a>vue组件中data为什么必须是一个函数？</h2><pre><code>因为JavaScript的特性所导致，在component中，data必须以函数的形式存在，不可以是对象。组建中的data写成一个函数，数据以函数返回值的形式定义，这样每次复用组件的时候，都会返回一份新的data，相当于每个组件实例都有自己私有的数据空间，它们只负责各自维护的数据，不会造成混乱。而单纯的写成对象形式，就是所有的组件实例共用了一个data，这样改一个全都改了。</code></pre><h2 id="单页面应用和多页面应用区别及优缺点"><a href="#单页面应用和多页面应用区别及优缺点" class="headerlink" title="单页面应用和多页面应用区别及优缺点"></a>单页面应用和多页面应用区别及优缺点</h2><pre><code>单页面应用（SPA），通俗一点说就是指只有一个主页面的应用，浏览器一开始要加载所有必须的 html, js, css。所有的页面内容都包含在这个所谓的主页面中。但在写的时候，还是会分开写（页面片段），然后在交互的时候由路由程序动态载入，单页面的页面跳转，仅刷新局部资源。多应用于pc端。多页面（MPA），就是指一个应用中有多个页面，页面跳转时是整页刷新单页面的优点：用户体验好，快，内容的改变不需要重新加载整个页面，基于这一点spa对服务器压力较小；前后端分离；页面效果会比较炫酷（比如切换页面内容时的专场动画）。单页面缺点：不利于seo；导航不可用，如果一定要导航需要自行实现前进、后退。（由于是单页面不能用浏览器的前进后退功能，所以需要自己建立堆栈管理）；初次加载时耗时多；页面复杂度提高很多。</code></pre><h2 id="v-if和v-for的优先级"><a href="#v-if和v-for的优先级" class="headerlink" title="v-if和v-for的优先级"></a>v-if和v-for的优先级</h2><pre><code>当 v-if 与 v-for 一起使用时，v-for 具有比 v-if 更高的优先级，这意味着 v-if 将分别重复运行于每个 v-for 循环中。所以，不推荐v-if和v-for同时使用。如果v-if和v-for一起用的话，vue中的的会自动提示v-if应该放到外层去</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> Vue </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vue </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>复习总结</title>
       <link href="/2021/06/16/%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
       <url>/2021/06/16/%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93/</url>
