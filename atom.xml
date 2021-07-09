@@ -3,11 +3,11 @@
   <title>忘川界</title>
   
   
-  <link href="https://www.gjiayu.com/atom.xml" rel="self"/>
+  <link href="https://gjiayu.com/atom.xml" rel="self"/>
   
-  <link href="https://www.gjiayu.com/"/>
+  <link href="https://gjiayu.com/"/>
   <updated>2021-07-09T00:34:18.063Z</updated>
-  <id>https://www.gjiayu.com/</id>
+  <id>https://gjiayu.com/</id>
   
   <author>
     <name>雨说</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>面试题-Vue系列</title>
-    <link href="https://www.gjiayu.com/2021/07/08/Vue%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    <id>https://www.gjiayu.com/2021/07/08/Vue%E9%9D%A2%E8%AF%95%E9%A2%98/</id>
+    <link href="https://gjiayu.com/2021/07/08/Vue%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    <id>https://gjiayu.com/2021/07/08/Vue%E9%9D%A2%E8%AF%95%E9%A2%98/</id>
     <published>2021-07-07T16:00:00.000Z</published>
     <updated>2021-07-09T00:34:18.063Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="Vue" scheme="https://www.gjiayu.com/categories/Vue/"/>
+    <category term="Vue" scheme="https://gjiayu.com/categories/Vue/"/>
     
     
-    <category term="vue" scheme="https://www.gjiayu.com/tags/vue/"/>
+    <category term="vue" scheme="https://gjiayu.com/tags/vue/"/>
     
   </entry>
   
   <entry>
     <title>web前端面试题整理，阶段性</title>
-    <link href="https://www.gjiayu.com/2021/07/08/%E5%89%8D%E6%AE%B5%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    <id>https://www.gjiayu.com/2021/07/08/%E5%89%8D%E6%AE%B5%E9%9D%A2%E8%AF%95%E9%A2%98/</id>
+    <link href="https://gjiayu.com/2021/07/08/%E5%89%8D%E6%AE%B5%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    <id>https://gjiayu.com/2021/07/08/%E5%89%8D%E6%AE%B5%E9%9D%A2%E8%AF%95%E9%A2%98/</id>
     <published>2021-07-07T16:00:00.000Z</published>
     <updated>2021-07-09T00:34:31.785Z</updated>
     
@@ -57,17 +57,17 @@
     
     
     
-    <category term="前端基础" scheme="https://www.gjiayu.com/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
+    <category term="前端基础" scheme="https://gjiayu.com/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="面试题" scheme="https://www.gjiayu.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    <category term="面试题" scheme="https://gjiayu.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>20道面试题(ajax/html/css/vue/react)</title>
-    <link href="https://www.gjiayu.com/2021/07/08/%E6%80%BB%E7%BB%9320%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    <id>https://www.gjiayu.com/2021/07/08/%E6%80%BB%E7%BB%9320%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98/</id>
+    <link href="https://gjiayu.com/2021/07/08/%E6%80%BB%E7%BB%9320%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    <id>https://gjiayu.com/2021/07/08/%E6%80%BB%E7%BB%9320%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98/</id>
     <published>2021-07-07T16:00:00.000Z</published>
     <updated>2021-07-09T00:34:07.010Z</updated>
     
@@ -81,17 +81,17 @@
     
     
     
-    <category term="前端基础" scheme="https://www.gjiayu.com/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
+    <category term="前端基础" scheme="https://gjiayu.com/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="面试题" scheme="https://www.gjiayu.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    <category term="面试题" scheme="https://gjiayu.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>复习总结</title>
-    <link href="https://www.gjiayu.com/2021/06/16/%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
-    <id>https://www.gjiayu.com/2021/06/16/%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+    <link href="https://gjiayu.com/2021/06/16/%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+    <id>https://gjiayu.com/2021/06/16/%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
     <published>2021-06-15T16:00:00.000Z</published>
     <updated>2021-07-07T12:39:21.938Z</updated>
     
@@ -105,17 +105,17 @@
     
     
     
-    <category term="总结" scheme="https://www.gjiayu.com/categories/%E6%80%BB%E7%BB%93/"/>
+    <category term="总结" scheme="https://gjiayu.com/categories/%E6%80%BB%E7%BB%93/"/>
     
     
-    <category term="总结" scheme="https://www.gjiayu.com/tags/%E6%80%BB%E7%BB%93/"/>
+    <category term="总结" scheme="https://gjiayu.com/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
   <entry>
     <title>工作室笔试题</title>
-    <link href="https://www.gjiayu.com/2021/06/14/%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%AC%94%E8%AF%95%E9%A2%98/"/>
-    <id>https://www.gjiayu.com/2021/06/14/%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%AC%94%E8%AF%95%E9%A2%98/</id>
+    <link href="https://gjiayu.com/2021/06/14/%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%AC%94%E8%AF%95%E9%A2%98/"/>
+    <id>https://gjiayu.com/2021/06/14/%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%AC%94%E8%AF%95%E9%A2%98/</id>
     <published>2021-06-13T16:00:00.000Z</published>
     <updated>2021-07-07T12:39:29.092Z</updated>
     
@@ -129,17 +129,17 @@
     
     
     
-    <category term="前端基础" scheme="https://www.gjiayu.com/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
+    <category term="前端基础" scheme="https://gjiayu.com/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="面试题" scheme="https://www.gjiayu.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    <category term="面试题" scheme="https://gjiayu.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>节流、防抖、闭包</title>
-    <link href="https://www.gjiayu.com/2021/06/14/%E8%8A%82%E6%B5%81%E3%80%81%E9%98%B2%E6%8A%96%E3%80%81%E9%97%AD%E5%8C%85/"/>
-    <id>https://www.gjiayu.com/2021/06/14/%E8%8A%82%E6%B5%81%E3%80%81%E9%98%B2%E6%8A%96%E3%80%81%E9%97%AD%E5%8C%85/</id>
+    <link href="https://gjiayu.com/2021/06/14/%E8%8A%82%E6%B5%81%E3%80%81%E9%98%B2%E6%8A%96%E3%80%81%E9%97%AD%E5%8C%85/"/>
+    <id>https://gjiayu.com/2021/06/14/%E8%8A%82%E6%B5%81%E3%80%81%E9%98%B2%E6%8A%96%E3%80%81%E9%97%AD%E5%8C%85/</id>
     <published>2021-06-13T16:00:00.000Z</published>
     <updated>2021-07-07T12:39:47.417Z</updated>
     
@@ -153,17 +153,17 @@
     
     
     
-    <category term="节流/防抖/闭包" scheme="https://www.gjiayu.com/categories/%E8%8A%82%E6%B5%81-%E9%98%B2%E6%8A%96-%E9%97%AD%E5%8C%85/"/>
+    <category term="节流/防抖/闭包" scheme="https://gjiayu.com/categories/%E8%8A%82%E6%B5%81-%E9%98%B2%E6%8A%96-%E9%97%AD%E5%8C%85/"/>
     
     
-    <category term="节流/防抖/闭包" scheme="https://www.gjiayu.com/tags/%E8%8A%82%E6%B5%81-%E9%98%B2%E6%8A%96-%E9%97%AD%E5%8C%85/"/>
+    <category term="节流/防抖/闭包" scheme="https://gjiayu.com/tags/%E8%8A%82%E6%B5%81-%E9%98%B2%E6%8A%96-%E9%97%AD%E5%8C%85/"/>
     
   </entry>
   
   <entry>
     <title>Html和Css</title>
-    <link href="https://www.gjiayu.com/2021/06/10/Html%E5%92%8CCss/"/>
-    <id>https://www.gjiayu.com/2021/06/10/Html%E5%92%8CCss/</id>
+    <link href="https://gjiayu.com/2021/06/10/Html%E5%92%8CCss/"/>
+    <id>https://gjiayu.com/2021/06/10/Html%E5%92%8CCss/</id>
     <published>2021-06-09T16:00:00.000Z</published>
     <updated>2021-07-07T12:41:11.205Z</updated>
     
@@ -177,17 +177,17 @@
     
     
     
-    <category term="Html/Css" scheme="https://www.gjiayu.com/categories/Html-Css/"/>
+    <category term="Html/Css" scheme="https://gjiayu.com/categories/Html-Css/"/>
     
     
-    <category term="html/css" scheme="https://www.gjiayu.com/tags/html-css/"/>
+    <category term="html/css" scheme="https://gjiayu.com/tags/html-css/"/>
     
   </entry>
   
   <entry>
     <title>JavaScript</title>
-    <link href="https://www.gjiayu.com/2021/06/10/JavaScript/"/>
-    <id>https://www.gjiayu.com/2021/06/10/JavaScript/</id>
+    <link href="https://gjiayu.com/2021/06/10/JavaScript/"/>
+    <id>https://gjiayu.com/2021/06/10/JavaScript/</id>
     <published>2021-06-09T16:00:00.000Z</published>
     <updated>2021-07-07T12:41:18.109Z</updated>
     
@@ -201,17 +201,17 @@
     
     
     
-    <category term="Js" scheme="https://www.gjiayu.com/categories/Js/"/>
+    <category term="Js" scheme="https://gjiayu.com/categories/Js/"/>
     
     
-    <category term="Js" scheme="https://www.gjiayu.com/tags/Js/"/>
+    <category term="Js" scheme="https://gjiayu.com/tags/Js/"/>
     
   </entry>
   
   <entry>
     <title>React</title>
-    <link href="https://www.gjiayu.com/2021/06/09/React/"/>
-    <id>https://www.gjiayu.com/2021/06/09/React/</id>
+    <link href="https://gjiayu.com/2021/06/09/React/"/>
+    <id>https://gjiayu.com/2021/06/09/React/</id>
     <published>2021-06-08T16:00:00.000Z</published>
     <updated>2021-07-07T12:41:24.376Z</updated>
     
@@ -225,17 +225,17 @@
     
     
     
-    <category term="React" scheme="https://www.gjiayu.com/categories/React/"/>
+    <category term="React" scheme="https://gjiayu.com/categories/React/"/>
     
     
-    <category term="react" scheme="https://www.gjiayu.com/tags/react/"/>
+    <category term="react" scheme="https://gjiayu.com/tags/react/"/>
     
   </entry>
   
   <entry>
     <title>后端</title>
-    <link href="https://www.gjiayu.com/2021/06/03/%E5%90%8E%E7%AB%AF/"/>
-    <id>https://www.gjiayu.com/2021/06/03/%E5%90%8E%E7%AB%AF/</id>
+    <link href="https://gjiayu.com/2021/06/03/%E5%90%8E%E7%AB%AF/"/>
+    <id>https://gjiayu.com/2021/06/03/%E5%90%8E%E7%AB%AF/</id>
     <published>2021-06-02T16:00:00.000Z</published>
     <updated>2021-07-07T12:39:36.691Z</updated>
     
@@ -249,17 +249,17 @@
     
     
     
-    <category term="后端" scheme="https://www.gjiayu.com/categories/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="https://gjiayu.com/categories/%E5%90%8E%E7%AB%AF/"/>
     
     
-    <category term="后端" scheme="https://www.gjiayu.com/tags/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="https://gjiayu.com/tags/%E5%90%8E%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>HTML</title>
-    <link href="https://www.gjiayu.com/2021/05/30/HTML/"/>
-    <id>https://www.gjiayu.com/2021/05/30/HTML/</id>
+    <link href="https://gjiayu.com/2021/05/30/HTML/"/>
+    <id>https://gjiayu.com/2021/05/30/HTML/</id>
     <published>2021-05-29T16:00:00.000Z</published>
     <updated>2021-07-07T12:41:03.806Z</updated>
     
@@ -273,17 +273,17 @@
     
     
     
-    <category term="Html" scheme="https://www.gjiayu.com/categories/Html/"/>
+    <category term="Html" scheme="https://gjiayu.com/categories/Html/"/>
     
     
-    <category term="html" scheme="https://www.gjiayu.com/tags/html/"/>
+    <category term="html" scheme="https://gjiayu.com/tags/html/"/>
     
   </entry>
   
   <entry>
     <title>Hexo系列-撰写文章</title>
-    <link href="https://www.gjiayu.com/2021/05/25/hexo%E7%B3%BB%E5%88%97%E6%92%B0%E5%86%99%E6%96%87%E7%AB%A0/"/>
-    <id>https://www.gjiayu.com/2021/05/25/hexo%E7%B3%BB%E5%88%97%E6%92%B0%E5%86%99%E6%96%87%E7%AB%A0/</id>
+    <link href="https://gjiayu.com/2021/05/25/hexo%E7%B3%BB%E5%88%97%E6%92%B0%E5%86%99%E6%96%87%E7%AB%A0/"/>
+    <id>https://gjiayu.com/2021/05/25/hexo%E7%B3%BB%E5%88%97%E6%92%B0%E5%86%99%E6%96%87%E7%AB%A0/</id>
     <published>2021-05-24T16:00:00.000Z</published>
     <updated>2021-07-07T12:40:56.621Z</updated>
     
@@ -297,17 +297,17 @@
     
     
     
-    <category term="hexo" scheme="https://www.gjiayu.com/categories/hexo/"/>
+    <category term="hexo" scheme="https://gjiayu.com/categories/hexo/"/>
     
     
-    <category term="hexo" scheme="https://www.gjiayu.com/tags/hexo/"/>
+    <category term="hexo" scheme="https://gjiayu.com/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>VUEX</title>
-    <link href="https://www.gjiayu.com/2021/05/23/VUEX/"/>
-    <id>https://www.gjiayu.com/2021/05/23/VUEX/</id>
+    <link href="https://gjiayu.com/2021/05/23/VUEX/"/>
+    <id>https://gjiayu.com/2021/05/23/VUEX/</id>
     <published>2021-05-22T16:00:00.000Z</published>
     <updated>2021-07-07T12:42:12.728Z</updated>
     
@@ -321,17 +321,17 @@
     
     
     
-    <category term="Vue" scheme="https://www.gjiayu.com/categories/Vue/"/>
+    <category term="Vue" scheme="https://gjiayu.com/categories/Vue/"/>
     
     
-    <category term="vue" scheme="https://www.gjiayu.com/tags/vue/"/>
+    <category term="vue" scheme="https://gjiayu.com/tags/vue/"/>
     
   </entry>
   
   <entry>
     <title>Vue高级用法</title>
-    <link href="https://www.gjiayu.com/2021/05/17/Vue%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/"/>
-    <id>https://www.gjiayu.com/2021/05/17/Vue%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</id>
+    <link href="https://gjiayu.com/2021/05/17/Vue%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/"/>
+    <id>https://gjiayu.com/2021/05/17/Vue%E9%AB%98%E7%BA%A7%E7%94%A8%E6%B3%95/</id>
     <published>2021-05-16T16:00:00.000Z</published>
     <updated>2021-07-07T12:42:05.531Z</updated>
     
@@ -345,17 +345,17 @@
     
     
     
-    <category term="Vue" scheme="https://www.gjiayu.com/categories/Vue/"/>
+    <category term="Vue" scheme="https://gjiayu.com/categories/Vue/"/>
     
     
-    <category term="vue" scheme="https://www.gjiayu.com/tags/vue/"/>
+    <category term="vue" scheme="https://gjiayu.com/tags/vue/"/>
     
   </entry>
   
   <entry>
     <title>前端和后端是如何交互的</title>
-    <link href="https://www.gjiayu.com/2021/05/15/%E5%89%8D%E7%AB%AF%E5%92%8C%E5%90%8E%E7%AB%AF%E6%98%AF%E5%A6%82%E4%BD%95%E4%BA%A4%E4%BA%92%E7%9A%84/"/>
-    <id>https://www.gjiayu.com/2021/05/15/%E5%89%8D%E7%AB%AF%E5%92%8C%E5%90%8E%E7%AB%AF%E6%98%AF%E5%A6%82%E4%BD%95%E4%BA%A4%E4%BA%92%E7%9A%84/</id>
+    <link href="https://gjiayu.com/2021/05/15/%E5%89%8D%E7%AB%AF%E5%92%8C%E5%90%8E%E7%AB%AF%E6%98%AF%E5%A6%82%E4%BD%95%E4%BA%A4%E4%BA%92%E7%9A%84/"/>
+    <id>https://gjiayu.com/2021/05/15/%E5%89%8D%E7%AB%AF%E5%92%8C%E5%90%8E%E7%AB%AF%E6%98%AF%E5%A6%82%E4%BD%95%E4%BA%A4%E4%BA%92%E7%9A%84/</id>
     <published>2021-05-14T16:00:00.000Z</published>
     <updated>2021-07-07T12:40:01.588Z</updated>
     
@@ -369,17 +369,17 @@
     
     
     
-    <category term="前后端对接" scheme="https://www.gjiayu.com/categories/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%AF%B9%E6%8E%A5/"/>
+    <category term="前后端对接" scheme="https://gjiayu.com/categories/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%AF%B9%E6%8E%A5/"/>
     
     
-    <category term="前后端对接" scheme="https://www.gjiayu.com/tags/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%AF%B9%E6%8E%A5/"/>
+    <category term="前后端对接" scheme="https://gjiayu.com/tags/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%AF%B9%E6%8E%A5/"/>
     
   </entry>
   
   <entry>
     <title>前端单词汇总</title>
-    <link href="https://www.gjiayu.com/2021/05/09/%E5%89%8D%E7%AB%AF%E5%8D%95%E8%AF%8D/"/>
-    <id>https://www.gjiayu.com/2021/05/09/%E5%89%8D%E7%AB%AF%E5%8D%95%E8%AF%8D/</id>
+    <link href="https://gjiayu.com/2021/05/09/%E5%89%8D%E7%AB%AF%E5%8D%95%E8%AF%8D/"/>
+    <id>https://gjiayu.com/2021/05/09/%E5%89%8D%E7%AB%AF%E5%8D%95%E8%AF%8D/</id>
     <published>2021-05-08T16:00:00.000Z</published>
     <updated>2021-07-07T12:39:53.191Z</updated>
     
@@ -393,17 +393,17 @@
     
     
     
-    <category term="单词" scheme="https://www.gjiayu.com/categories/%E5%8D%95%E8%AF%8D/"/>
+    <category term="单词" scheme="https://gjiayu.com/categories/%E5%8D%95%E8%AF%8D/"/>
     
     
-    <category term="前端基础" scheme="https://www.gjiayu.com/tags/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
+    <category term="前端基础" scheme="https://gjiayu.com/tags/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>微信小程序</title>
-    <link href="https://www.gjiayu.com/2021/05/08/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    <id>https://www.gjiayu.com/2021/05/08/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</id>
+    <link href="https://gjiayu.com/2021/05/08/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <id>https://gjiayu.com/2021/05/08/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</id>
     <published>2021-05-07T16:00:00.000Z</published>
     <updated>2021-07-07T12:40:08.709Z</updated>
     
@@ -417,17 +417,17 @@
     
     
     
-    <category term="微信小程序" scheme="https://www.gjiayu.com/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <category term="微信小程序" scheme="https://gjiayu.com/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
     
-    <category term="微信小程序" scheme="https://www.gjiayu.com/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    <category term="微信小程序" scheme="https://gjiayu.com/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>20道面试题测下你前端基础如何</title>
-    <link href="https://www.gjiayu.com/2021/05/03/20%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98%E6%B5%8B%E4%B8%8B%E4%BD%A0%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80%E5%A6%82%E4%BD%95/"/>
-    <id>https://www.gjiayu.com/2021/05/03/20%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98%E6%B5%8B%E4%B8%8B%E4%BD%A0%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80%E5%A6%82%E4%BD%95/</id>
+    <link href="https://gjiayu.com/2021/05/03/20%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98%E6%B5%8B%E4%B8%8B%E4%BD%A0%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80%E5%A6%82%E4%BD%95/"/>
+    <id>https://gjiayu.com/2021/05/03/20%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98%E6%B5%8B%E4%B8%8B%E4%BD%A0%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80%E5%A6%82%E4%BD%95/</id>
     <published>2021-05-02T16:00:00.000Z</published>
     <updated>2021-07-07T12:39:13.139Z</updated>
     
@@ -441,17 +441,17 @@
     
     
     
-    <category term="前端基础" scheme="https://www.gjiayu.com/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
+    <category term="前端基础" scheme="https://gjiayu.com/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="面试题" scheme="https://www.gjiayu.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    <category term="面试题" scheme="https://gjiayu.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>hexo搭建</title>
-    <link href="https://www.gjiayu.com/2021/04/27/hexo%E6%90%AD%E5%BB%BA/"/>
-    <id>https://www.gjiayu.com/2021/04/27/hexo%E6%90%AD%E5%BB%BA/</id>
+    <link href="https://gjiayu.com/2021/04/27/hexo%E6%90%AD%E5%BB%BA/"/>
+    <id>https://gjiayu.com/2021/04/27/hexo%E6%90%AD%E5%BB%BA/</id>
     <published>2021-04-26T16:00:00.000Z</published>
     <updated>2021-07-07T12:40:48.826Z</updated>
     
@@ -465,17 +465,17 @@
     
     
     
-    <category term="hexo" scheme="https://www.gjiayu.com/categories/hexo/"/>
+    <category term="hexo" scheme="https://gjiayu.com/categories/hexo/"/>
     
     
-    <category term="hexo" scheme="https://www.gjiayu.com/tags/hexo/"/>
+    <category term="hexo" scheme="https://gjiayu.com/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>Vue 3 计划放弃支持 IE11</title>
-    <link href="https://www.gjiayu.com/2021/04/20/Vue%203%20%E8%AE%A1%E5%88%92%E6%94%BE%E5%BC%83%E6%94%AF%E6%8C%81%20IE11/"/>
-    <id>https://www.gjiayu.com/2021/04/20/Vue%203%20%E8%AE%A1%E5%88%92%E6%94%BE%E5%BC%83%E6%94%AF%E6%8C%81%20IE11/</id>
+    <link href="https://gjiayu.com/2021/04/20/Vue%203%20%E8%AE%A1%E5%88%92%E6%94%BE%E5%BC%83%E6%94%AF%E6%8C%81%20IE11/"/>
+    <id>https://gjiayu.com/2021/04/20/Vue%203%20%E8%AE%A1%E5%88%92%E6%94%BE%E5%BC%83%E6%94%AF%E6%8C%81%20IE11/</id>
     <published>2021-04-19T16:00:00.000Z</published>
     <updated>2021-07-07T12:41:31.243Z</updated>
     
@@ -489,10 +489,10 @@
     
     
     
-    <category term="新闻" scheme="https://www.gjiayu.com/categories/%E6%96%B0%E9%97%BB/"/>
+    <category term="新闻" scheme="https://gjiayu.com/categories/%E6%96%B0%E9%97%BB/"/>
     
     
-    <category term="vue" scheme="https://www.gjiayu.com/tags/vue/"/>
+    <category term="vue" scheme="https://gjiayu.com/tags/vue/"/>
     
   </entry>
   
