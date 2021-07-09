@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gjiayu.com/2021/07/08/%E6%80%BB%E7%BB%9320%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
+    
+    <lastmod>2021-07-09</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gjiayu.com/2021/07/08/%E5%89%8D%E6%AE%B5%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
     
     <lastmod>2021-07-09</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://gjiayu.com/2021/07/08/Vue%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
-    
-    <lastmod>2021-07-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gjiayu.com/2021/07/08/%E6%80%BB%E7%BB%9320%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
     
     <lastmod>2021-07-09</lastmod>
     
@@ -221,14 +221,14 @@
 
   
   <url>
-    <loc>https://gjiayu.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
+    <loc>https://gjiayu.com/tags/css/</loc>
     <lastmod>2021-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gjiayu.com/tags/css/</loc>
+    <loc>https://gjiayu.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
     <lastmod>2021-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -328,14 +328,14 @@
 
   
   <url>
-    <loc>https://gjiayu.com/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://gjiayu.com/categories/CSS/</loc>
     <lastmod>2021-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gjiayu.com/categories/CSS/</loc>
+    <loc>https://gjiayu.com/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2021-07-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
