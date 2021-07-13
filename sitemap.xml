@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gjiayu.com/2021/07/12/two-bishi/</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gjiayu.com/tags/index.html</loc>
     
     <lastmod>2021-07-13</lastmod>
@@ -31,13 +38,6 @@
   
   <url>
     <loc>https://gjiayu.com/2021/06/16/zongjie/</loc>
-    
-    <lastmod>2021-07-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gjiayu.com/2021/07/12/two-bishi/</loc>
     
     <lastmod>2021-07-13</lastmod>
     
@@ -242,14 +242,14 @@
   </url>
   
   <url>
-    <loc>https://gjiayu.com/tags/Js/</loc>
+    <loc>https://gjiayu.com/tags/html-css/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gjiayu.com/tags/html-css/</loc>
+    <loc>https://gjiayu.com/tags/Js/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -349,14 +349,14 @@
   </url>
   
   <url>
-    <loc>https://gjiayu.com/categories/Js/</loc>
+    <loc>https://gjiayu.com/categories/Html-Css/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gjiayu.com/categories/Html-Css/</loc>
+    <loc>https://gjiayu.com/categories/Js/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -377,14 +377,14 @@
   </url>
   
   <url>
-    <loc>https://gjiayu.com/categories/%E8%8A%82%E6%B5%81-%E9%98%B2%E6%8A%96-%E9%97%AD%E5%8C%85/</loc>
+    <loc>https://gjiayu.com/categories/%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gjiayu.com/categories/%E6%96%B0%E9%97%BB/</loc>
+    <loc>https://gjiayu.com/categories/%E8%8A%82%E6%B5%81-%E9%98%B2%E6%8A%96-%E9%97%AD%E5%8C%85/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
