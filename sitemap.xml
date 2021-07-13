@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gjiayu.com/guanyu/index.html</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gjiayu.com/charts/index.html</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gjiayu.com/2021/06/14/bishiti/</loc>
     
     <lastmod>2021-07-13</lastmod>
@@ -149,13 +163,6 @@
   </url>
   
   <url>
-    <loc>https://gjiayu.com/guanyu/index.html</loc>
-    
-    <lastmod>2021-07-08</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://gjiayu.com/link/index.html</loc>
     
     <lastmod>2021-07-07</lastmod>
@@ -208,13 +215,6 @@
     <loc>https://gjiayu.com/2021/04/20/error%EF%BC%9Aspawn%20failed/</loc>
     
     <lastmod>2021-07-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gjiayu.com/charts/index.html</loc>
-    
-    <lastmod>2021-07-05</lastmod>
     
   </url>
   
