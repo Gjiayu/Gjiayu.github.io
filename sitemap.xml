@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gjiayu.com/2021/06/14/bishiti/</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gjiayu.com/2021/06/16/zongjie/</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gjiayu.com/2021/07/12/two-bishi/</loc>
     
     <lastmod>2021-07-13</lastmod>
@@ -17,20 +31,6 @@
   
   <url>
     <loc>https://gjiayu.com/2021/05/03/cejishu/</loc>
-    
-    <lastmod>2021-07-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gjiayu.com/2021/06/16/zongjie/</loc>
-    
-    <lastmod>2021-07-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gjiayu.com/2021/06/14/bishiti/</loc>
     
     <lastmod>2021-07-12</lastmod>
     
@@ -235,14 +235,14 @@
   </url>
   
   <url>
-    <loc>https://gjiayu.com/tags/html/</loc>
+    <loc>https://gjiayu.com/tags/html-css/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gjiayu.com/tags/html-css/</loc>
+    <loc>https://gjiayu.com/tags/html/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -342,14 +342,14 @@
   </url>
   
   <url>
-    <loc>https://gjiayu.com/categories/Html/</loc>
+    <loc>https://gjiayu.com/categories/Html-Css/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gjiayu.com/categories/Html-Css/</loc>
+    <loc>https://gjiayu.com/categories/Html/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
