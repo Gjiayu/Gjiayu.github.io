@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gjiayu.com/2021/07/15/ZJWHD/</loc>
+    
+    <lastmod>2021-07-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gjiayu.com/2021/06/16/zongjie/</loc>
+    
+    <lastmod>2021-07-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gjiayu.com/guanyu/index.html</loc>
     
     <lastmod>2021-07-14</lastmod>
@@ -38,13 +52,6 @@
   
   <url>
     <loc>https://gjiayu.com/2021/06/14/bishiti/</loc>
-    
-    <lastmod>2021-07-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gjiayu.com/2021/06/16/zongjie/</loc>
     
     <lastmod>2021-07-13</lastmod>
     
@@ -228,14 +235,14 @@
 
   
   <url>
-    <loc>https://gjiayu.com/tags/css/</loc>
+    <loc>https://gjiayu.com/tags/html/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gjiayu.com/tags/html/</loc>
+    <loc>https://gjiayu.com/tags/css/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -270,6 +277,13 @@
   </url>
   
   <url>
+    <loc>https://gjiayu.com/tags/%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2021-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gjiayu.com/tags/%E8%8A%82%E6%B5%81-%E9%98%B2%E6%8A%96-%E9%97%AD%E5%8C%85/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
@@ -284,14 +298,14 @@
   </url>
   
   <url>
-    <loc>https://gjiayu.com/tags/hexo/</loc>
+    <loc>https://gjiayu.com/tags/bug/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gjiayu.com/tags/bug/</loc>
+    <loc>https://gjiayu.com/tags/hexo/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -319,13 +333,6 @@
   </url>
   
   <url>
-    <loc>https://gjiayu.com/tags/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2021-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://gjiayu.com/tags/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
@@ -335,14 +342,14 @@
 
   
   <url>
-    <loc>https://gjiayu.com/categories/CSS/</loc>
+    <loc>https://gjiayu.com/categories/Html/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gjiayu.com/categories/Html/</loc>
+    <loc>https://gjiayu.com/categories/CSS/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -384,6 +391,13 @@
   </url>
   
   <url>
+    <loc>https://gjiayu.com/categories/%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2021-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gjiayu.com/categories/%E8%8A%82%E6%B5%81-%E9%98%B2%E6%8A%96-%E9%97%AD%E5%8C%85/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
@@ -398,14 +412,14 @@
   </url>
   
   <url>
-    <loc>https://gjiayu.com/categories/hexo/</loc>
+    <loc>https://gjiayu.com/categories/Bug/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://gjiayu.com/categories/Bug/</loc>
+    <loc>https://gjiayu.com/categories/hexo/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -427,13 +441,6 @@
   
   <url>
     <loc>https://gjiayu.com/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2021-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://gjiayu.com/categories/%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2021-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
