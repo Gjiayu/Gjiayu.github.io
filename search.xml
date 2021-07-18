@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>VUE重点总结</title>
+      <link href="/2021/07/18/VUEzj/"/>
+      <url>/2021/07/18/VUEzj/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="VUE"><a href="#VUE" class="headerlink" title="VUE"></a>VUE</h1><p>更加详细<a class="btn-beautify button--animated outline" href="https://gjiayu.com/2021/07/18/VUEzj/"   title="请点这里"><i class="far fa-hand-point-right fa-fw"></i><span>请点这里</span></a></p><p>⚡️ <strong>Vue指令</strong></p><pre><code>1.v-bind：绑定自定义属性2.v-on：绑定自定义事件3.v-model：实现数据双向绑定4.v-for：循环渲染5.v-once：永远显示的是第一次渲染值的内容6.v-clock：防止插槽写法为空时页面闪烁7.v-slot：插槽的指令------------------------------------------------------------------------------------------------⚔️v-text和v-html的区别：    v-text只能渲染值以及字符串等；v-html专门渲染字符串类型的dom片段⚔️v-if和v-show的区别：    v-if是加载与销毁；v-show是显示与隐藏⚔️v-for为什么要加key？    给vue虚拟dom算法进行优化的⚔️什么是虚拟dom？    js动态生成的dom</code></pre><p>⚡️ <strong>内置组件</strong></p><pre><code>⚔️组件缓存    &lt;keep-alive&gt;⚔️动态加载组件    &lt;component&gt;------------------------------------------------------------------------------------------------⚔️组件缓存的两个属性：    include：包含某一个    exclude：排除某一个⚔️动态加载组件优点是什么？    节省代码，便于管理，动态操作    </code></pre><p>⚡️ <strong>修饰符</strong></p><pre><code>⚔️事件修饰符    1.stop：阻止冒泡    2.prevent：阻止默认事件    3.native：绑定原生事件⚔️按键修饰符    enter和13：监听回车    right和left：监听鼠标左击右击</code></pre><p>⚡️ <strong>watch和computed的差异</strong></p><pre><code>1.watch对引用数据类型的值，需要开启深度监听；computed则不受数据类型的影响，还会返回一个新值2.watch是监听属性，computed是计算属性3.watch不支持缓存，computed支持缓存4.watch支持异步，computed不支持异步</code></pre><p>⚡️ <strong>Vue定义</strong></p><pre><code>⚔️什么是vue？以数据驱动试图的渐进式mvvm框架</code></pre><p>⚡️ <strong>Vue响应式原理</strong></p><pre><code>object.defineProperty</code></pre><p>⚡️ <strong>Vue路由</strong></p><pre><code>⚔️路由组成部分    视图、导航、路由配置⚔️路由跳转方式    标签跳转和js跳转    标签跳转叫编程式导航    js跳转叫声明式导航⚔️路由配置规则    动态路由、嵌套路由、路由重定向、路由别名⚔️路由传参方式    1.query传参    2.params显示和隐式传参⚔️路由的生命周期    beforeEach    beforeRouteUpdate    beforeRouteLeave------------------------------------------------------------------------------------------------⚔️query和params隐式传参的区别？    隐式传参params数据存在内存里，页面刷新会导致数据丢失；    而query和显示传参params数据存在地址栏里，页面刷新不会导致数据丢失⚔️beforeEach回调函数的三个参数是什么？    callback 回调函数接受三个参数：to、from、next</code></pre><p>⚡️ <strong>Vuex</strong></p><pre><code>⚔️vuex组成部分    state：存储状态的    getters：对state进行计算的    mutations：修改state的    actions：调用mutations修改state    plugin：插件⚔️vuex工作流程    客户端操作事件，dispatch调用一个action，对应action处理参数，commit一个type类型，mutation接受一个type类型    触发对应函数，修改state值，state值修改后重新渲染</code></pre><p>⚡️ <strong>Vue优点</strong></p><pre><code>⚔️缺点和优点    优点是模板化开发    缺点是不利于爬虫⚔️什么是模块化开发？    高可复用的资源</code></pre><p>⚡️如何让样式只在当前组件生效？</p><pre><code>scoped</code></pre><p>⚡️什么是diff算法？</p><pre><code>同层对比，新旧替换</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> Vue </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vue </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>总结</title>
       <link href="/2021/07/15/ZJWHD/"/>
       <url>/2021/07/15/ZJWHD/</url>

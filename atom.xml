@@ -6,7 +6,7 @@
   <link href="https://gjiayu.com/atom.xml" rel="self"/>
   
   <link href="https://gjiayu.com/"/>
-  <updated>2021-07-15T09:28:27.713Z</updated>
+  <updated>2021-07-18T13:02:29.652Z</updated>
   <id>https://gjiayu.com/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>VUE重点总结</title>
+    <link href="https://gjiayu.com/2021/07/18/VUEzj/"/>
+    <id>https://gjiayu.com/2021/07/18/VUEzj/</id>
+    <published>2021-07-17T16:00:00.000Z</published>
+    <updated>2021-07-18T13:02:29.652Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="VUE"><a href="#VUE" class="headerlink" title="VUE"></a>VUE</h1><p>更加详细<a class="btn-beautify button--animated outline" href="https://gjiayu.com/2021/07/18/VUEzj/"   title="请点这里"><i class="far fa-hand-point-right fa-fw"></i><span>请点这里</span></a></p><p>⚡️ <strong>Vue指令</strong></p><pre><code>1.v-bind：绑定自定义属性2.v-on：绑定自定义事件3.v-model：实现数据双向绑定4.v-for：循环渲染5.v-once：永远显示的是第一次渲染值的内容6.v-clock：防止插槽写法为空时页面闪烁7.v-slot：插槽的指令------------------------------------------------------------------------------------------------⚔️v-text和v-html的区别：    v-text只能渲染值以及字符串等；v-html专门渲染字符串类型的dom片段⚔️v-if和v-show的区别：    v-if是加载与销毁；v-show是显示与隐藏⚔️v-for为什么要加key？    给vue虚拟dom算法进行优化的⚔️什么是虚拟dom？    js动态生成的dom</code></pre><p>⚡️ <strong>内置组件</strong></p><pre><code>⚔️组件缓存    &lt;keep-alive&gt;⚔️动态加载组件    &lt;component&gt;------------------------------------------------------------------------------------------------⚔️组件缓存的两个属性：    include：包含某一个    exclude：排除某一个⚔️动态加载组件优点是什么？    节省代码，便于管理，动态操作    </code></pre><p>⚡️ <strong>修饰符</strong></p><pre><code>⚔️事件修饰符    1.stop：阻止冒泡    2.prevent：阻止默认事件    3.native：绑定原生事件⚔️按键修饰符    enter和13：监听回车    right和left：监听鼠标左击右击</code></pre><p>⚡️ <strong>watch和computed的差异</strong></p><pre><code>1.watch对引用数据类型的值，需要开启深度监听；computed则不受数据类型的影响，还会返回一个新值2.watch是监听属性，computed是计算属性3.watch不支持缓存，computed支持缓存4.watch支持异步，computed不支持异步</code></pre><p>⚡️ <strong>Vue定义</strong></p><pre><code>⚔️什么是vue？以数据驱动试图的渐进式mvvm框架</code></pre><p>⚡️ <strong>Vue响应式原理</strong></p><pre><code>object.defineProperty</code></pre><p>⚡️ <strong>Vue路由</strong></p><pre><code>⚔️路由组成部分    视图、导航、路由配置⚔️路由跳转方式    标签跳转和js跳转    标签跳转叫编程式导航    js跳转叫声明式导航⚔️路由配置规则    动态路由、嵌套路由、路由重定向、路由别名⚔️路由传参方式    1.query传参    2.params显示和隐式传参⚔️路由的生命周期    beforeEach    beforeRouteUpdate    beforeRouteLeave------------------------------------------------------------------------------------------------⚔️query和params隐式传参的区别？    隐式传参params数据存在内存里，页面刷新会导致数据丢失；    而query和显示传参params数据存在地址栏里，页面刷新不会导致数据丢失⚔️beforeEach回调函数的三个参数是什么？    callback 回调函数接受三个参数：to、from、next</code></pre><p>⚡️ <strong>Vuex</strong></p><pre><code>⚔️vuex组成部分    state：存储状态的    getters：对state进行计算的    mutations：修改state的    actions：调用mutations修改state    plugin：插件⚔️vuex工作流程    客户端操作事件，dispatch调用一个action，对应action处理参数，commit一个type类型，mutation接受一个type类型    触发对应函数，修改state值，state值修改后重新渲染</code></pre><p>⚡️ <strong>Vue优点</strong></p><pre><code>⚔️缺点和优点    优点是模板化开发    缺点是不利于爬虫⚔️什么是模块化开发？    高可复用的资源</code></pre><p>⚡️如何让样式只在当前组件生效？</p><pre><code>scoped</code></pre><p>⚡️什么是diff算法？</p><pre><code>同层对比，新旧替换</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="Vue" scheme="https://gjiayu.com/categories/Vue/"/>
+    
+    
+    <category term="vue" scheme="https://gjiayu.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
     <title>总结</title>
     <link href="https://gjiayu.com/2021/07/15/ZJWHD/"/>
     <id>https://gjiayu.com/2021/07/15/ZJWHD/</id>
     <published>2021-07-14T16:00:00.000Z</published>
-    <updated>2021-07-15T09:28:27.713Z</updated>
+    <updated>2021-07-18T12:59:21.889Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note red icon modern"><i class="note-icon fas fa-fan"></i><p><strong>这是我总结的基础知识点，如有补充请写在下方评论</strong></p></div><h1 id="VUE"><a href="#VUE" class="headerlink" title="VUE"></a>VUE</h1><p>⚡️ <strong>Vue指令</strong><br>⚡️ <strong>内置组件</strong></p><pre><code>⚔️组件缓存⚔️动态加载组件</code></pre><p>⚡️ <strong>修饰符</strong></p><pre><code>⚔️事件修饰符⚔️按键修饰符</code></pre><p>⚡️ <strong>watch和computed的差异</strong><br>⚡️ <strong>Vue定义</strong><br>⚡️ <strong>Vue响应式原理</strong><br>⚡️ <strong>Vue路由</strong></p><pre><code>⚔️路由组成部分⚔️路由跳转方式⚔️路由配置规则⚔️路由传参方式⚔️路由的生命周期</code></pre><p>⚡️ <strong>Vuex</strong></p><pre><code>⚔️vuex组成部分⚔️vuex工作流程</code></pre><p>⚡️ <strong>Vue优点</strong></p><h1 id="AJAX"><a href="#AJAX" class="headerlink" title="AJAX"></a>AJAX</h1><p>⚡️ <strong>Ajax原理的步骤</strong><br>⚡️ <strong>get和post的区别</strong><br>⚡️ <strong>状态码</strong><br>⚡️ <strong>Ajax优缺点</strong><br>⚡️ <strong>Ajax是什么</strong></p><h1 id="PROMISE"><a href="#PROMISE" class="headerlink" title="PROMISE"></a>PROMISE</h1><p>⚡️ <strong>Promise的作用</strong><br>⚡️ <strong>promise四个步骤</strong><br>⚡️ <strong>promise三种状态</strong><br>⚡️ <strong>promise的方法</strong><br>⚡️ <strong>Promise.all</strong><br>⚡️ <strong>Promise.any</strong><br>⚡️ <strong>Promise.race</strong><br>⚡️ <strong>Promise.allSettled</strong></p><h1 id="ES6"><a href="#ES6" class="headerlink" title="ES6"></a>ES6</h1><p>⚡️ <strong>三种声明变量区别</strong><br>⚡️ <strong>模板字符串优点</strong><br>⚡️ <strong>箭头函数优点</strong><br>⚡️ <strong>优点解决了哪些问题</strong><br>⚡️ <strong>什么是解构赋值</strong><br>⚡️ <strong>解构赋值的作用</strong></p><h1 id="闭包"><a href="#闭包" class="headerlink" title="闭包"></a>闭包</h1><p>⚡️ <strong>什么是闭包</strong><br>⚡️ <strong>闭包的作用</strong></p><h1 id="JSONP"><a href="#JSONP" class="headerlink" title="JSONP"></a>JSONP</h1><p>⚡️ <strong>jsonp的作用</strong><br>⚡️ <strong>同源策略</strong><br>⚡️ <strong>同源</strong><br>⚡️ <strong>jsonp原理</strong></p><h1 id="JS"><a href="#JS" class="headerlink" title="JS"></a>JS</h1><p>⚡️ <strong>面向对象过程</strong></p><pre><code>⚔️含义⚔️好处</code></pre><p>⚡️ <strong>创建函数的三种方式</strong><br>⚡️ <strong>创建对象做了哪些事</strong><br>⚡️ <strong>document获取元素的方式</strong><br>⚡️ <strong>自定义属性</strong></p><pre><code>⚔️获取⚔️设置⚔️移除</code></pre><p>⚡️ <strong>阻止事件冒泡</strong><br>⚡️ <strong>阻止事件默认行为</strong><br>⚡️ <strong>js数据类型</strong><br>⚡️ <strong>js组成部分</strong><br>⚡️ <strong>字符串方法</strong><br>⚡️ <strong>构造函数</strong></p><pre><code>⚔️执行过程⚔️弊端</code></pre><p>⚡️ <strong>this指向</strong></p><pre><code>⚔️普通函数/闭包/回调⚔️方法函数⚔️事件处理函数⚔️构造函数</code></pre><p>⚡️ <strong>改变this指向</strong></p><pre><code>⚔️区别</code></pre><p>⚡️ <strong>this优先级</strong><br>⚡️ <strong>构造函数与原型和对象区别</strong><br>⚡️ <strong>斐波那契的原理</strong><br>⚡️ <strong>原型链</strong><br>⚡️ <strong>面向编程</strong></p><pre><code>⚔️面向过程⚔️面向函数⚔️面向对象</code></pre><p>⚡️ <strong>同步异步的区别</strong><br>⚡️ <strong>数组方法</strong></p><h1 id="REACT"><a href="#REACT" class="headerlink" title="REACT"></a>REACT</h1><p>⚡️ <strong>react如何实现数据双向绑定</strong><br>⚡️ <strong>react中事件 this 绑定的实现方法</strong><br>⚡️ <strong>react组件的几种写法</strong><br>⚡️ <strong>类组件中的state与setState如何在函数组件中使用hooks如何表现</strong><br>⚡️ <strong>React生命周期</strong><br>⚡️ <strong>props使用场景</strong><br>⚡️ <strong>如何实现page值累加</strong><br>⚡️ <strong>React的特点</strong></p><h1 id="HTML-CSS"><a href="#HTML-CSS" class="headerlink" title="HTML/CSS"></a>HTML/CSS</h1><p>⚡️ <strong>css可以继承的属性</strong><br>⚡️ <strong>css选择器</strong><br>⚡️ <strong>Html和Xml的区别</strong><br>⚡️ <strong>localStorage的方法</strong><br>⚡️ <strong>隐藏网页中的元素的几种方法</strong></p><pre><code>⚔️区别</code></pre><p>⚡️ <strong>css实现垂直水平居中</strong><br>⚡️ <strong>cookies，sessionStorage和localStorage的区别</strong><br>⚡️ <strong>清除浮动的方法</strong></p><div class="note primary modern"><p>补充题</p></div><p>🚀 <strong>什么是节流</strong><br>🚀 <strong>什么是防抖</strong><br>🚀 <strong>js返回的typeof类型</strong><br>🚀 <strong>js强制类型转换和隐式类型转换</strong><br>🚀 <strong>split().join()区别</strong><br>🚀 <strong>ajax请求时如何解析json数据</strong><br>🚀 <strong>==和===区别</strong><br>🚀 <strong>addEventListner 和 addchEvent区别</strong><br>🚀 <strong>说一下label标签作用</strong><br>🚀 <strong>怎么画一条0.5px的直线</strong><br>🚀 <strong>target、currenttarget的区别</strong><br>🚀 <strong>列举数组的迭代方法</strong><br>🚀 <strong>什么是MVC模式</strong><br>🚀 <strong>什么是MVVM模式</strong><br>🚀 <strong>vue中v-for需要注意什么？为什么要加key</strong><br>🚀 <strong>其他数据类型转换成布尔值是false的值都有哪些</strong><br>🚀 <strong>如何解决循环绑定事件中不能获取索引的问题</strong></p>]]></content>
     
@@ -469,30 +493,6 @@
     
     
     <category term="微信小程序" scheme="https://gjiayu.com/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>20道面试题测下你前端基础如何</title>
-    <link href="https://gjiayu.com/2021/05/03/cejishu/"/>
-    <id>https://gjiayu.com/2021/05/03/cejishu/</id>
-    <published>2021-05-02T16:00:00.000Z</published>
-    <updated>2021-07-12T02:50:42.168Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>下面为我为大家精选的 22 道面试题</p><p><strong>1.请说出三种 meta 标签的作用？</strong></p><p>说明：我会用知识点引导 meta 标签的常用用法</p><p>答：</p><p><strong>2.说出你工作中最常用的五个标签，并说明应用场景？</strong></p><p>说明：看似简单，却能根据你回答的标签和用法来判断你代码的语义化和书写规范。</p><p>答：</p><p><strong>3.box-sizing 的取值和相应的作用？</strong></p><p>说明：我会用知识点引导盒子模型</p><p>答：</p><p><strong>4.让子元素 position:absolute 生效，父元素应该怎么设置？</strong></p><p>说明：初学者在这里有个误区</p><p>答：</p><p><strong>5.position 设置为 absolute 的 div 和 span 分别是什么样子？</strong></p><p>说明：我会用知识点引导 position 的具体作用</p><p>答：</p><p><strong>6.margin 穿透问题怎么解决？</strong></p><p>说明：这里我会详细说下 BFC</p><p>答：</p><p><strong>7.什么是 em 和 rem，他们的区别在哪？</strong></p><p>说明：这里有记忆不准的地方</p><p>答：</p><p><strong>8.简单说下 bootstrap 栅格系统的实现原理？【以及其他由此引发的面试题】</strong></p><p>说明：这里有大量的面试问法，因为栅格系统的原理被应用到目前所有流行的 UI 框架，引发问题，比如：哪个属性让一个 col 即使没有内容也会占据它的位置？等等</p><p>答：</p><p><strong>9.如何阻止事件冒泡？</strong></p><p>说明：基本功</p><p>答：</p><p><strong>10.【代码题】变量提升？</strong></p><p>说明：百年不变的经典题目，而且出场率特别高</p><p>答：</p><p><strong>11.如何实现原型替换？</strong></p><p>说明：这个首先得知道什么是原型</p><p>答：</p><p><strong>12.简单说下 this 指向的具体规则？</strong></p><p>说明：基本功</p><p>答：</p><p><strong>13.什么是闭包？</strong></p><p>说明：组建封装的先行者</p><p>答：</p><p><strong>14.let 和 var 有什么区别？请举例说明。</strong></p><p>说明：别以为很简单，</p><p>答：</p><p><strong>15.模块在同一个页面引入两次，会引起几次 js 渲染？为什么？</strong></p><p>说明：假如你猜对了渲染次数，可能会败在为什么</p><p>答：</p><p><strong>16.如何统一管理 promise 的错误处理函数？</strong></p><p>说明：用过的人都知道</p><p>答：</p><p><strong>17.promise 的 resolve 函数中最多能携带几个参数？</strong></p><p>说明：猜吧</p><p>答：</p><p><strong>18.说一下你在工作中是如何应用 promise 的？</strong></p><p>说明：结合实际来说，我会用知识点引导 promise 的原理和其他用法</p><p>答：</p><p><strong>19.从那些方面可以提升前端性能？</strong></p><p>说明：这个可以列个 1，2，3，4，5</p><p>答：</p><p><strong>20.怎么处理移动端兼容性问题？</strong></p><p>说明：不经历你可能不知道</p><p>答：</p><p><strong>21.你觉得怎样的命名方式才比较规范？结合实例说明</strong></p><p>说明：驼峰？那只是皮毛</p><p>答：</p><p><strong>22.你在平时浏览哪些网站？都有什么样的收获？</strong></p><p>说明：github，掘金，博客园，csdn？我会教你更能打动面试官的回答</p><p>答：</p><p>新增题目:</p><p><strong>01.请说下 1==2==0，1===2===0 的结果？</strong></p><p>说明:值比较和类型比较</p><p>答:</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="前端基础" scheme="https://gjiayu.com/categories/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/"/>
-    
-    
-    <category term="面试题" scheme="https://gjiayu.com/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     
   </entry>
   
